@@ -202,6 +202,32 @@
     background: url(../img/banner_consultancy.jpg) center center no-repeat;
     background-size: cover;
 }
+
+.page-header_esg{
+    background: url(../img/esg.jpg) center center no-repeat;
+    background-size: cover;
+}
+.page-header_internet{
+    background: url(../img/i1.jpg) center center no-repeat;
+    background-size: cover;
+}
+.page-header_access{
+    background: url(../img/a6.jpg) center center no-repeat;
+    background-size: cover;
+}
+.page-header_security{
+    background: url(../img/security.jpeg) center center no-repeat;
+    background-size: cover;
+}
+.page-header_cctv{
+    background: url(../img/s5.jpg) center center no-repeat;
+    background-size: cover;
+}
+.page-header_fire{
+    background: url(../img/fire.jpeg) center center no-repeat;
+    background-size: cover;
+}
+
 .page-header_manpower{
     background: url(../img/banner_manpower.jpg) center center no-repeat;
     background-size: cover;
